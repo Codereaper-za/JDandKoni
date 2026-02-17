@@ -261,3 +261,81 @@ footer a:hover {
 body {
   background-color: rgb(255, 255, 255);
 }
+
+.logo {
+  height: 300px;   /* Big and bold */
+  display: block;
+  margin: 0 auto;  /* Center horizontally */
+}
+
+.logo-container {
+  text-align: center;
+  padding: 30px;
+}
+
+header h1 {
+  margin-top: 0;      /* Remove the big gap above */
+  margin-bottom: 0;   /* Remove extra space below */
+  line-height: 1.1;   /* Tighten vertical spacing */
+  padding: 0;
+}
+
+.logo {
+  height: 250px;      /* Keep logo bold but not oversized */
+  display: block;
+  margin: 0 auto;     /* Center horizontally */
+}
+
+.logo-container {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  margin-top: 0;      /* Remove the big gap above */
+  margin-bottom: 0;   /* Remove extra space below */
+  line-height: 1.1;   /* Tighten vertical spacing */
+  padding: 0;
+}
+
+.logo {
+  height: 250px;      /* Keep logo bold but not oversized */
+  display: block;
+  margin: 0 auto;     /* Center horizontally */
+}
+
+.logo-container {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  height: 250px;       /* Keep logo bold but not oversized */
+  display: block;
+  margin: 0 auto;      /* Center horizontally */
+}
+
+header h1 {
+  margin-top: -60px;   /* Pull text upward closer to logo */
+  margin-bottom: 0;    /* Remove extra space below */
+  line-height: 1;      /* Tighten vertical spacing */
+  padding: 0;
+}
+
+header p {
+  margin-top: 5px;     /* Small controlled gap for tagline */
+  margin-bottom: 0;
+}
+
+header h1 {
+  margin-top: -80px;   /* Pull text right up under logo */
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+header p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
